@@ -1,2 +1,2 @@
 # polynomial-curve-fitting
-An implementation of polynomial curve fitting using Bayesian methods.
+ python implementation of polynomial curve fitting using Bayesian methods.
